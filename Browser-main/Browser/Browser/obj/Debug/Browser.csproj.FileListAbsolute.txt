@@ -1,0 +1,16 @@
+D:\Prejects\Browser\Browser\obj\Debug\Browser.csprojAssemblyReference.cache
+D:\Prejects\Browser\Browser\obj\Debug\Browser.Form1.resources
+D:\Prejects\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+D:\Prejects\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.cache
+D:\Prejects\Browser\Browser\obj\Debug\Browser.csproj.CoreCompileInputs.cache
+D:\Prejects\Browser\Browser\bin\Debug\Browser.exe.config
+D:\Prejects\Browser\Browser\bin\Debug\Browser.exe
+D:\Prejects\Browser\Browser\bin\Debug\Browser.pdb
+D:\Prejects\Browser\Browser\obj\Debug\Browser.exe
+D:\Prejects\Browser\Browser\obj\Debug\Browser.pdb
+E:\Student\Browser-main\Browser\Browser\bin\Debug\Browser.exe.config
+E:\Student\Browser-main\Browser\Browser\obj\Debug\Browser.exe
+E:\Student\Browser-main\Browser\Browser\obj\Debug\Browser.pdb
+E:\Hmelevschii\Browser-main\Browser\Browser\bin\Debug\Browser.exe.config
+E:\Hmelevschii\Browser-main\Browser\Browser\obj\Debug\Browser.exe
+E:\Hmelevschii\Browser-main\Browser\Browser\obj\Debug\Browser.pdb
